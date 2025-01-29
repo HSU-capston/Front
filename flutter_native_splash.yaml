@@ -1,0 +1,6 @@
+flutter_native_splash:
+  color: "#42a5f5" # 배경 색상
+  background_image: assets/SportyUP_splash.png # 전체 화면에 표시할 배경 이미지
+  android_12:
+    background_image: assets/SportyUP_splash.png # Android 12에서도 전체 화면
+  fullscreen: true # 풀스크린으로 설정

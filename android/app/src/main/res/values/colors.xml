@@ -1,4 +1,3 @@
 <resources>
-    <color name="splash_background">#42a5f5</color>
+    <color name="splash_background">#FFFFFF</color> <!-- 예시로 흰색으로 설정 -->
 </resources>
-

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.sporty_up.app-mergeDebugResources-2:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Junhyun\\.gradle\\caches\\transforms-3\\6675010fb9ea879dd6d3f8e9f3c60e09\\transformed\\appcompat-1.4.0\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

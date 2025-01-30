@@ -1,3 +1,10 @@
+plugins {
+    id "com.android.application" version "8.1.2" apply false
+    id "org.jetbrains.kotlin.android" version "1.7.10" apply false
+    id "dev.flutter.flutter-gradle-plugin" apply false
+}
+
+// 모든 프로젝트에 대한 리포지토리 설정
 allprojects {
     repositories {
         google()
@@ -5,14 +12,12 @@ allprojects {
     }
 }
 
-rootProject.buildDir = "../build"
-subprojects {
-    project.buildDir = "${rootProject.buildDir}/${project.name}"
-}
+// 서브 프로젝트 설정
 subprojects {
     project.evaluationDependsOn(":app")
 }
 
+// clean 작업 정의
 tasks.register("clean", Delete) {
     delete rootProject.buildDir
 }

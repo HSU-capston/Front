@@ -6,6 +6,7 @@ plugins {
 }
 
 android {
+    compileSdkVersion 34 // targetSdkVersion과 맞춰주세요
     namespace = "com.example.sporty_up"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
@@ -20,14 +21,11 @@ android {
     }
 
     defaultConfig {
-        // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId = "com.example.sporty_up"
-        // You can update the following values to match your application needs.
-        // For more information, see: https://flutter.dev/to/review-gradle-config.
-        minSdkVersion 21 // 최소 SDK 버전 (Android 5.0 이상)
-        targetSdkVersion 31 // 대상 SDK 버전 (Android 12)
-        versionCode = flutter.versionCode
-        versionName = flutter.versionName
+        applicationId "com.example.sporty_up"
+        minSdkVersion 21  // 최소 지원 Android 버전 (21 이상 추천)
+        targetSdkVersion 34 // 최신 버전에 맞춰주세요
+        versionCode 1
+        versionName "1.0"
     }
 
     buildTypes {

@@ -4,7 +4,7 @@
             "outputFile": "com.example.sporty_up.app-mergeDebugResources-2:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Junhyun\\.gradle\\caches\\transforms-3\\6675010fb9ea879dd6d3f8e9f3c60e09\\transformed\\appcompat-1.4.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\h0106\\.gradle\\caches\\transforms-3\\c41d2cd4a710c89f1acbb12a43fd3540\\transformed\\appcompat-1.4.0\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -25,10 +25,10 @@
                     "from": {
                         "startLines": "3,18",
                         "startColumns": "4,4",
-                        "startOffsets": "172,1092",
+                        "startOffsets": "175,1104",
                         "endLines": "11,20",
                         "endColumns": "12,12",
-                        "endOffsets": "745,1256"
+                        "endOffsets": "755,1270"
                     },
                     "to": {
                         "startLines": "2,10",

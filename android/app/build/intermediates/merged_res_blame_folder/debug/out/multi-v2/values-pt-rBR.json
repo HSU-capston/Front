@@ -4,7 +4,7 @@
             "outputFile": "com.example.sporty_up.app-mergeDebugResources-2:/values-pt-rBR/values-pt-rBR.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Junhyun\\.gradle\\caches\\transforms-3\\1e4bc02400c6c211401179f562f36725\\transformed\\core-1.13.1\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "source": "C:\\Users\\h0106\\.gradle\\caches\\transforms-3\\3a8754447173992e157ca84f2fd250b4\\transformed\\core-1.13.1\\res\\values-pt-rBR\\values-pt-rBR.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Junhyun\\.gradle\\caches\\transforms-3\\6675010fb9ea879dd6d3f8e9f3c60e09\\transformed\\appcompat-1.4.0\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "source": "C:\\Users\\h0106\\.gradle\\caches\\transforms-3\\c41d2cd4a710c89f1acbb12a43fd3540\\transformed\\appcompat-1.4.0\\res\\values-pt-rBR\\values-pt-rBR.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

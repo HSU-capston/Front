@@ -5,6 +5,7 @@ com.example.sporty_up.app-packageDebugResources-3 C:\Git\Front\android\app\build
 com.example.sporty_up.app-merged_res-4 C:\Git\Front\android\app\build\intermediates\merged_res\debug
 com.example.sporty_up.app-debug-5 C:\Git\Front\android\app\src\debug\res
 com.example.sporty_up.app-main-6 C:\Git\Front\android\app\src\main\res
+<<<<<<< Updated upstream
 com.example.sporty_up.app-lifecycle-runtime-2.7.0-7 C:\Users\h0106\.gradle\caches\transforms-3\0e2b8794071e08a44d8fbe2bb4dd9c2a\transformed\lifecycle-runtime-2.7.0\res
 com.example.sporty_up.app-jetified-tracing-1.2.0-8 C:\Users\h0106\.gradle\caches\transforms-3\1b56b30b8e555afde5e648273b9f53bf\transformed\jetified-tracing-1.2.0\res
 com.example.sporty_up.app-jetified-emoji2-views-helper-1.0.0-9 C:\Users\h0106\.gradle\caches\transforms-3\1fd21eb2938653b92cf615215eb75fd3\transformed\jetified-emoji2-views-helper-1.0.0\res
@@ -29,4 +30,30 @@ com.example.sporty_up.app-jetified-core-ktx-1.13.1-27 C:\Users\h0106\.gradle\cac
 com.example.sporty_up.app-jetified-window-1.2.0-28 C:\Users\h0106\.gradle\caches\transforms-3\d27b1a274c6f4ae98fc4b025ee9b70c9\transformed\jetified-window-1.2.0\res
 com.example.sporty_up.app-jetified-lifecycle-process-2.7.0-29 C:\Users\h0106\.gradle\caches\transforms-3\d2a2b775b8c4428ecc8c69f533d1d3f4\transformed\jetified-lifecycle-process-2.7.0\res
 com.example.sporty_up.app-jetified-emoji2-1.0.0-30 C:\Users\h0106\.gradle\caches\transforms-3\dda3cca0ef8d5be6aaf4ba6ebf5d1154\transformed\jetified-emoji2-1.0.0\res
+=======
+com.example.sporty_up.app-jetified-startup-runtime-1.1.1-7 C:\Users\h0106\.gradle\caches\transforms-3\03df0d7652eb576e4c74652b69020876\transformed\jetified-startup-runtime-1.1.1\res
+com.example.sporty_up.app-fragment-1.7.1-8 C:\Users\h0106\.gradle\caches\transforms-3\12518ea24ea58182d22919c0bb6de175\transformed\fragment-1.7.1\res
+com.example.sporty_up.app-jetified-annotation-experimental-1.4.0-9 C:\Users\h0106\.gradle\caches\transforms-3\13e154a7783ee6340eb4ee6b087c4743\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.sporty_up.app-jetified-activity-1.8.1-10 C:\Users\h0106\.gradle\caches\transforms-3\2070f617a57a809de4d9b9ed80ed68b7\transformed\jetified-activity-1.8.1\res
+com.example.sporty_up.app-jetified-emoji2-1.0.0-11 C:\Users\h0106\.gradle\caches\transforms-3\29442145f818b3b3a97ee2170b5bf37c\transformed\jetified-emoji2-1.0.0\res
+com.example.sporty_up.app-jetified-core-ktx-1.13.1-12 C:\Users\h0106\.gradle\caches\transforms-3\3d2c1237c88f08224165d5c435016e7f\transformed\jetified-core-ktx-1.13.1\res
+com.example.sporty_up.app-jetified-tracing-1.2.0-13 C:\Users\h0106\.gradle\caches\transforms-3\3dc567c9892a0b3027cc033c70c7218f\transformed\jetified-tracing-1.2.0\res
+com.example.sporty_up.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-14 C:\Users\h0106\.gradle\caches\transforms-3\45262cb888f921cc0567d314517d79b0\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.sporty_up.app-appcompat-1.4.0-15 C:\Users\h0106\.gradle\caches\transforms-3\653e2c5cce6d64a16d327bc192383c40\transformed\appcompat-1.4.0\res
+com.example.sporty_up.app-jetified-window-java-1.2.0-16 C:\Users\h0106\.gradle\caches\transforms-3\6f78ec991ea4e56309ac57db59306a68\transformed\jetified-window-java-1.2.0\res
+com.example.sporty_up.app-lifecycle-livedata-core-2.7.0-17 C:\Users\h0106\.gradle\caches\transforms-3\6fe78716f349060d38f7dcdad8207e78\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.sporty_up.app-lifecycle-runtime-2.7.0-18 C:\Users\h0106\.gradle\caches\transforms-3\737f285b69bd74d5d93ee8821146e9c0\transformed\lifecycle-runtime-2.7.0\res
+com.example.sporty_up.app-jetified-lifecycle-process-2.7.0-19 C:\Users\h0106\.gradle\caches\transforms-3\7c75dbcd43e57d4b0d4cb715fc6e7b6d\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.sporty_up.app-lifecycle-viewmodel-2.7.0-20 C:\Users\h0106\.gradle\caches\transforms-3\7e2ae8ac12263da14441c349c0970eea\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.sporty_up.app-core-runtime-2.2.0-21 C:\Users\h0106\.gradle\caches\transforms-3\8ef17c67b8f837d6166cb898771125d1\transformed\core-runtime-2.2.0\res
+com.example.sporty_up.app-jetified-core-1.0.0-22 C:\Users\h0106\.gradle\caches\transforms-3\8f14881975d86a94cd4aa180aa355306\transformed\jetified-core-1.0.0\res
+com.example.sporty_up.app-jetified-savedstate-1.2.1-23 C:\Users\h0106\.gradle\caches\transforms-3\a1aa6eef1ac1798212f62d92e0f07d12\transformed\jetified-savedstate-1.2.1\res
+com.example.sporty_up.app-jetified-lifecycle-livedata-core-ktx-2.7.0-24 C:\Users\h0106\.gradle\caches\transforms-3\a79334afffdb714492132c9e056a5580\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.sporty_up.app-lifecycle-livedata-2.7.0-25 C:\Users\h0106\.gradle\caches\transforms-3\b50577aabd3cba668504b9364cf119cc\transformed\lifecycle-livedata-2.7.0\res
+com.example.sporty_up.app-core-1.13.1-26 C:\Users\h0106\.gradle\caches\transforms-3\c2449d51ec4d2b72a3c3ff056ddc7ee1\transformed\core-1.13.1\res
+com.example.sporty_up.app-jetified-emoji2-views-helper-1.0.0-27 C:\Users\h0106\.gradle\caches\transforms-3\c2489f8878a14b65eed5a9b939d51130\transformed\jetified-emoji2-views-helper-1.0.0\res
+com.example.sporty_up.app-jetified-appcompat-resources-1.4.0-28 C:\Users\h0106\.gradle\caches\transforms-3\d3511e49f397894277c9b6741c0ac267\transformed\jetified-appcompat-resources-1.4.0\res
+com.example.sporty_up.app-jetified-window-1.2.0-29 C:\Users\h0106\.gradle\caches\transforms-3\d7f9fbe94eaa9962f4516e1abf0882d7\transformed\jetified-window-1.2.0\res
+com.example.sporty_up.app-jetified-profileinstaller-1.3.1-30 C:\Users\h0106\.gradle\caches\transforms-3\ff2eebce7b5d4c47c58b6163029017ad\transformed\jetified-profileinstaller-1.3.1\res
+>>>>>>> Stashed changes
 com.example.sporty_up.app-packaged_res-31 C:\Users\h0106\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_native_splash-2.4.4\android\build\intermediates\packaged_res\debug

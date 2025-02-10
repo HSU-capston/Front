@@ -4,7 +4,11 @@
             "outputFile": "com.example.sporty_up.app-mergeDebugResources-2:/values-pt/values-pt.xml",
             "map": [
                 {
+<<<<<<< Updated upstream
                     "source": "C:\\Users\\h0106\\.gradle\\caches\\transforms-3\\3a8754447173992e157ca84f2fd250b4\\transformed\\core-1.13.1\\res\\values-pt\\values-pt.xml",
+=======
+                    "source": "C:\\Users\\h0106\\.gradle\\caches\\transforms-3\\c2449d51ec4d2b72a3c3ff056ddc7ee1\\transformed\\core-1.13.1\\res\\values-pt\\values-pt.xml",
+>>>>>>> Stashed changes
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -21,7 +25,11 @@
                     }
                 },
                 {
+<<<<<<< Updated upstream
                     "source": "C:\\Users\\h0106\\.gradle\\caches\\transforms-3\\c41d2cd4a710c89f1acbb12a43fd3540\\transformed\\appcompat-1.4.0\\res\\values-pt\\values-pt.xml",
+=======
+                    "source": "C:\\Users\\h0106\\.gradle\\caches\\transforms-3\\653e2c5cce6d64a16d327bc192383c40\\transformed\\appcompat-1.4.0\\res\\values-pt\\values-pt.xml",
+>>>>>>> Stashed changes
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

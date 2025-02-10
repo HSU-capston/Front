@@ -17,6 +17,12 @@ migrate_working_dir/
 *.ipr
 *.iws
 .idea/
+.idea/caches/
+.idea/libraries/
+.idea/shelf/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
 
 # The .vscode folder contains launch configuration and tasks you configure in
 # VS Code which you may wish to be included in version control, so this line
@@ -31,13 +37,112 @@ migrate_working_dir/
 .flutter-plugins-dependencies
 .pub-cache/
 .pub/
-/build/
+build/
+lib/generated_plugin_registrant.dart
 
-# Symbolication related
-app.*.symbols
+# iOS/Xcode related
+**/ios/**/*.mode1v3
+**/ios/**/*.mode2v3
+**/ios/**/*.moved-aside
+**/ios/**/*.pbxuser
+**/ios/**/*.perspectivev3
+**/ios/**/DerivedData/
+**/ios/**/Pods/
+**/ios/**/.symlinks/
+**/ios/**/xcuserdata
+**/ios/.generated/
+**/ios/Flutter/.last_build_id
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/ServiceDefinitions.json
+**/ios/Runner/GeneratedPluginRegistrant.*
+
+# Android related
+**/android/**/gradle-wrapper.jar
+**/android/.gradle
+**/android/captures/
+**/android/gradlew
+**/android/gradlew.bat
+**/android/key.properties
+**/android/local.properties
+**/android/**/GeneratedPluginRegistrant.java
+**/android/app/debug
+**/android/app/profile
+**/android/app/release
+
+# Android Emulator related
+**/.android/avd/
+**/.android/emu/
+
+# Keep necessary Android Studio settings
+.idea/codeStyles/
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/compiler.xml
+.idea/libraries/
+
+# VS Code settings (keep extensions & settings, ignore everything else)
+.vscode/
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# Java version control
+.gradle/
+.gradle/caches/
+.gradle/wrapper/
+**/local.properties
+**/gradle.properties
+**/.java-version
+
+# Exclude personal AWS credentials & configs
+.aws/
+*.pem
+.env
+.env.local
+.env.development
+.env.production
+
+# Google services & API keys (Do not commit sensitive keys)
+**/google-services.json
+**/firebase.json
+**/mediapipe-config.json
+
+# macOS & Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs & Temporary files
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+crash_logs/
+
+# Node.js & Package dependencies
+node_modules/
+node_modules/.cache/
+package-lock.json
+yarn.lock
+
+# Python environment files
+__pycache__/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual Machine & Vagrant
+.vagrant/
 
 # Obfuscation related
 app.*.map.json
+
+# Symbolication related
+app.*.symbols
 
 # Android Studio will place build artifacts here
 /android/app/debug

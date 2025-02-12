@@ -49,7 +49,9 @@ lib/generated_plugin_registrant.dart
 **/ios/**/DerivedData/
 **/ios/**/Pods/
 **/ios/**/.symlinks/
-**/ios/**/xcuserdata
+**/ios/**/xcuserdata/
+**/ios/**/xcdebugger/
+**/ios/**/xcshareddata/
 **/ios/.generated/
 **/ios/Flutter/.last_build_id
 **/ios/Flutter/App.framework
@@ -69,9 +71,13 @@ lib/generated_plugin_registrant.dart
 **/android/key.properties
 **/android/local.properties
 **/android/**/GeneratedPluginRegistrant.java
-**/android/app/debug
-**/android/app/profile
-**/android/app/release
+**/android/app/build/
+**/android/app/intermediates/
+**/android/app/debug/
+**/android/app/profile/
+**/android/app/release/
+**/android/app/outputs/
+**/android/app/.cxx/
 
 # Android Emulator related
 **/.android/avd/
@@ -111,6 +117,7 @@ lib/generated_plugin_registrant.dart
 **/google-services.json
 **/firebase.json
 **/mediapipe-config.json
+**/keystore/
 
 # macOS & Windows system files
 .DS_Store
@@ -132,6 +139,7 @@ yarn.lock
 # Python environment files
 __pycache__/
 venv/
+.venv/
 pip-log.txt
 pip-delete-this-directory.txt
 

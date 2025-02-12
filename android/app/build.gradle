@@ -34,7 +34,6 @@ android {
             // TODO: Add your own signing config for the release build.
             // Signing with the debug keys for now, so `flutter run --release` works.
             signingConfig = signingConfigs.debug
-            debuggable false
         }
     }
 
@@ -43,6 +42,31 @@ android {
     }
 }
 
+// 📌 **Gradle 빌드 디렉토리 설정 추가 (여기에 추가!)**
+rootProject.buildDir = '../build'
+subprojects {
+    project.buildDir = "${rootProject.buildDir}/${project.name}"
+    project.evaluationDependsOn(':app')
+}
+
 flutter {
     source = "../.."
+}
+
+// 📌 **APK 복사 작업 추가**
+tasks.configureEach { task ->
+    if (task.name == "assembleDebug") {
+        task.finalizedBy("copyDebugApkToFlutterExpectedLocation")
+    }
+}
+
+tasks.register('copyDebugApkToFlutterExpectedLocation') {
+    doLast {
+        def flavorNames = android.productFlavors.collect { it.name }
+        def flavorName = flavorNames.isEmpty() ? "" : flavorNames[0].toLowerCase()
+        copy {
+            from "${buildDir}/outputs/apk/${flavorName}/debug/app-${flavorName}-debug.apk"
+            into "${rootProject.buildDir}/app/outputs/flutter-apk/"
+        }
+    }
 }

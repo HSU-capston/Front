@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+
+
+
+
+    <color name="gray">#CED4DA</color>
+    <color name="inputgray">#CDCDCD</color>
+    <color name="buttoncolor">#F8F8F8</color>
+    <color name="strokecolor">#F0F0F0</color>
+    <color name="textgray">#7B7B7B</color>
+    <color name="main">#1C5EEE</color>
+    <color name="sub_1">#0040FF</color>
+    <color name="sub_2">#4070FF</color>
+    <color name="sub_3">#408FFF</color>
+    <color name="sub_4">#809FFF</color>
+    <color name="sub_5">#BFDAFF</color>
+    <color name="sub_6">#007AFF</color>
+
+
+
+
+    <!--Gray-->
+    <color name="Gray1">#484848</color>
+    <color name="Gray2">#5C5C5C</color>
+    <color name="Gray3">#7B7B7B</color>
+    <color name="Gray4">#9A9A9A</color>
+    <color name="Gray5">#A4A4A4</color>
+    <color name="Gray6">#B9B9B9</color>
+    <color name="Gray7">#CDCDCD</color>
+    <color name="Gray8">#F0F0F0</color>
+    <color name="Gray9">#F8F8F8</color>
+    <color name="Gray10">#FAFAFA</color>
+
+</resources>

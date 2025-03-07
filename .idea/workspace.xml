@@ -35,13 +35,62 @@
           <theme>@style/Theme.CapstonSpotyUP</theme>
         </config>
       </layout>
+      <layout url="file://$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_mypage_friend.xml">
+        <config>
+          <theme>@style/Theme.CapstonSpotyUP</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_mypage_setting.xml">
+        <config>
+          <theme>@style/Theme.CapstonSpotyUP</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_mypage_storage.xml">
+        <config>
+          <theme>@style/Theme.CapstonSpotyUP</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_sub.xml">
+        <config>
+          <theme>@style/Theme.CapstonSpotyUP</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/viewpager1.xml">
+        <config>
+          <theme>@style/Theme.CapstonSpotyUP</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/viewpager2.xml">
+        <config>
+          <theme>@style/Theme.CapstonSpotyUP</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/viewpager3.xml">
+        <config>
+          <theme>@style/Theme.CapstonSpotyUP</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/viewpager4.xml">
+        <config>
+          <theme>@style/Theme.CapstonSpotyUP</theme>
+        </config>
+      </layout>
     </layouts>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="595c0fe3-f9ac-4f09-9e72-5a133aae5a83" name="Changes" comment="" />
+    <list default="true" id="595c0fe3-f9ac-4f09-9e72-5a133aae5a83" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/java/com/example/capston_spotyup/Profile/SettingsFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/java/com/example/capston_spotyup/Profile/StorageFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_mypage_friend.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_mypage_setting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_mypage_storage.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/java/com/example/capston_spotyup/Profile/ProfileFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/java/com/example/capston_spotyup/Profile/ProfileFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_mypage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_mypage.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,6 +121,16 @@
         </projects_view>
       </state>
     </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -114,6 +173,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Git\Front\android\app\build" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Git\Front\CapstonSportyUP\app\src\main\res\drawable" />
     </key>
   </component>
   <component name="RunManager" selected="Android App.app">
@@ -214,12 +276,12 @@
       <map>
         <entry key="com.example.capston_spotyup">
           <value>
-            <CheckInfo lastCheckTimestamp="1741240792332" />
+            <CheckInfo lastCheckTimestamp="1741327582291" />
           </value>
         </entry>
         <entry key="com.example.capston_spotyup.test">
           <value>
-            <CheckInfo lastCheckTimestamp="1741240792332" />
+            <CheckInfo lastCheckTimestamp="1741327582290" />
           </value>
         </entry>
       </map>

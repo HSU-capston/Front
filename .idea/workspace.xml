@@ -15,15 +15,33 @@
           <theme>@style/Theme.CapstonSpotyUP</theme>
         </config>
       </layout>
+      <layout url="file://$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/content.xml">
+        <config>
+          <theme>@style/Theme.CapstonSpotyUP</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_home.xml">
+        <config>
+          <theme>@style/Theme.CapstonSpotyUP</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_map.xml">
+        <config>
+          <theme>@style/Theme.CapstonSpotyUP</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_mypage.xml">
+        <config>
+          <theme>@style/Theme.CapstonSpotyUP</theme>
+        </config>
+      </layout>
     </layouts>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="595c0fe3-f9ac-4f09-9e72-5a133aae5a83" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/CapstonSportyUP/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/CapstonSportyUP/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="595c0fe3-f9ac-4f09-9e72-5a133aae5a83" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

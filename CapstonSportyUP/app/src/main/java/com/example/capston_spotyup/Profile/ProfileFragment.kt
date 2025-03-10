@@ -1,5 +1,6 @@
 package com.example.capston_spotyup.Profile
 
+import android.content.Context
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
@@ -35,6 +36,14 @@ class ProfileFragment : Fragment() {
         binding.tabSettings.setOnClickListener {
             replaceFragment(SettingsFragment(), binding.tabSettings)
         }
+
+        // SharedPreferences에서 저장된 이름과 이메일 불러오기
+        val sharedPreferences = requireActivity().getSharedPreferences("UserProfile", Context.MODE_PRIVATE)
+        val savedName = sharedPreferences.getString("name", "손주완")
+        val savedEmail = sharedPreferences.getString("email", "vvan_2")
+
+        binding.nickname.text = savedName
+        binding.accountCode.text = savedEmail
 
         return binding.root
     }

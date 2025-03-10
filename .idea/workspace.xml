@@ -99,9 +99,8 @@
     <list default="true" id="595c0fe3-f9ac-4f09-9e72-5a133aae5a83" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/java/com/example/capston_spotyup/Profile/ProfileFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/java/com/example/capston_spotyup/Profile/ProfileFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/drawable/button_selector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/drawable/button_selector.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_mypage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_mypage.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/java/com/example/capston_spotyup/Profile/SettingsFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/java/com/example/capston_spotyup/Profile/SettingsFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_mypage_setting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_mypage_setting.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

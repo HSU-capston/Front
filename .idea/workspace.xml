@@ -65,6 +65,11 @@
           <theme>@style/Theme.CapstonSpotyUP</theme>
         </config>
       </layout>
+      <layout url="file://$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/main_dialog.xml">
+        <config>
+          <theme>@style/Theme.CapstonSpotyUP</theme>
+        </config>
+      </layout>
       <layout url="file://$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/viewpager1.xml">
         <config>
           <theme>@style/Theme.CapstonSpotyUP</theme>
@@ -96,6 +101,7 @@
       <change beforePath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/java/com/example/capston_spotyup/Profile/ProfileFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/java/com/example/capston_spotyup/Profile/ProfileFragment.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/drawable/button_selector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/drawable/button_selector.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_mypage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_mypage.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/values/colors.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -55,6 +55,11 @@
           <theme>@style/Theme.CapstonSpotyUP</theme>
         </config>
       </layout>
+      <layout url="file://$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/item_storage.xml">
+        <config>
+          <theme>@style/Theme.CapstonSpotyUP</theme>
+        </config>
+      </layout>
       <layout url="file://$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/viewpager1.xml">
         <config>
           <theme>@style/Theme.CapstonSpotyUP</theme>
@@ -82,14 +87,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="595c0fe3-f9ac-4f09-9e72-5a133aae5a83" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/java/com/example/capston_spotyup/Profile/SettingsFragment.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/java/com/example/capston_spotyup/Profile/StorageFragment.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_mypage_friend.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_mypage_setting.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_mypage_storage.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/java/com/example/capston_spotyup/Profile/FriendsAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/java/com/example/capston_spotyup/Profile/StorageAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/drawable/button_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/drawable/circle_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/item_friend.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/item_storage.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/java/com/example/capston_spotyup/Main/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/java/com/example/capston_spotyup/Main/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/java/com/example/capston_spotyup/Profile/FriendsFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/java/com/example/capston_spotyup/Profile/FriendsFragment.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/java/com/example/capston_spotyup/Profile/ProfileFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/java/com/example/capston_spotyup/Profile/ProfileFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/java/com/example/capston_spotyup/Profile/StorageFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/java/com/example/capston_spotyup/Profile/StorageFragment.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_mypage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_mypage.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_mypage_friend.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_mypage_friend.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_mypage_storage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_mypage_storage.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/values/colors.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,10 +137,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="layoutResourceFile" />
-        <option value="Class" />
         <option value="Kotlin File" />
+        <option value="Class" />
+        <option value="resourceFile" />
         <option value="Kotlin Class" />
+        <option value="layoutResourceFile" />
       </list>
     </option>
   </component>
@@ -139,6 +152,9 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -155,6 +171,7 @@
     &quot;Flutter.main.dart.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
     &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
@@ -276,12 +293,12 @@
       <map>
         <entry key="com.example.capston_spotyup">
           <value>
-            <CheckInfo lastCheckTimestamp="1741327582291" />
+            <CheckInfo lastCheckTimestamp="1741569592831" />
           </value>
         </entry>
         <entry key="com.example.capston_spotyup.test">
           <value>
-            <CheckInfo lastCheckTimestamp="1741327582290" />
+            <CheckInfo lastCheckTimestamp="1741569592829" />
           </value>
         </entry>
       </map>

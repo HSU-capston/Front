@@ -12,7 +12,6 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
 import androidx.fragment.app.Fragment
-import com.example.capston_spotyup.ProfileFragment
 import com.example.capston_spotyup.R
 import com.example.capston_spotyup.SearchFragment
 import com.example.capston_spotyup.databinding.ActivityMainBinding
@@ -21,6 +20,7 @@ import com.example.sportyup.FragmentHome
 import android.Manifest
 import com.example.capston_spotyup.CameraActivity
 import com.example.capston_spotyup.MapFragment
+import com.example.capston_spotyup.Profile.ProfileFragment
 
 class MainActivity : AppCompatActivity() {
 

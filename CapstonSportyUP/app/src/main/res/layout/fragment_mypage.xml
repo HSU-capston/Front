@@ -88,8 +88,9 @@
             android:layout_height="50dp"
             android:layout_weight="1"
             android:text="보관함"
+            android:textColor="@color/black"
             android:background="@drawable/button_selector"
-            android:textColor="@color/black"/>
+            android:stateListAnimator="@null"/>
 
         <Button
             android:id="@+id/tabFriends"
@@ -98,7 +99,8 @@
             android:layout_weight="1"
             android:text="친구관리"
             android:background="@drawable/button_selector"
-            android:textColor="@color/black"/>
+            android:textColor="@color/black"
+            android:stateListAnimator="@null"/>
 
         <Button
             android:id="@+id/tabSettings"
@@ -107,7 +109,8 @@
             android:layout_weight="1"
             android:text="설정"
             android:background="@drawable/button_selector"
-            android:textColor="@color/black"/>
+            android:textColor="@color/black"
+            android:stateListAnimator="@null"/>
     </LinearLayout>
 
     <!-- Fragment Container -->

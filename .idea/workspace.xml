@@ -5,89 +5,9 @@
       <config />
     </shared>
     <layouts>
-      <layout url="file://$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/activity_camera.xml">
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
         <config>
-          <theme>@style/Theme.CapstonSpotyUP</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/activity_main.xml">
-        <config>
-          <theme>@style/Theme.CapstonSpotyUP</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/content.xml">
-        <config>
-          <theme>@style/Theme.CapstonSpotyUP</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_home.xml">
-        <config>
-          <theme>@style/Theme.CapstonSpotyUP</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_map.xml">
-        <config>
-          <theme>@style/Theme.CapstonSpotyUP</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_mypage.xml">
-        <config>
-          <theme>@style/Theme.CapstonSpotyUP</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_mypage_friend.xml">
-        <config>
-          <theme>@style/Theme.CapstonSpotyUP</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_mypage_setting.xml">
-        <config>
-          <theme>@style/Theme.CapstonSpotyUP</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_mypage_storage.xml">
-        <config>
-          <theme>@style/Theme.CapstonSpotyUP</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_sub.xml">
-        <config>
-          <theme>@style/Theme.CapstonSpotyUP</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/item_friend.xml">
-        <config>
-          <theme>@style/Theme.CapstonSpotyUP</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/item_storage.xml">
-        <config>
-          <theme>@style/Theme.CapstonSpotyUP</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/main_dialog.xml">
-        <config>
-          <theme>@style/Theme.CapstonSpotyUP</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/viewpager1.xml">
-        <config>
-          <theme>@style/Theme.CapstonSpotyUP</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/viewpager2.xml">
-        <config>
-          <theme>@style/Theme.CapstonSpotyUP</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/viewpager3.xml">
-        <config>
-          <theme>@style/Theme.CapstonSpotyUP</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/viewpager4.xml">
-        <config>
-          <theme>@style/Theme.CapstonSpotyUP</theme>
+          <theme>@style/Theme.TfliteTestApp</theme>
         </config>
       </layout>
     </layouts>
@@ -96,12 +16,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="595c0fe3-f9ac-4f09-9e72-5a133aae5a83" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/java/com/example/capston_spotyup/Profile/ProfileFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/java/com/example/capston_spotyup/Profile/ProfileFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/java/com/example/capston_spotyup/Profile/SettingsFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/java/com/example/capston_spotyup/Profile/SettingsFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_mypage_setting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CapstonSportyUP/app/src/main/res/layout/fragment_mypage_setting.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e33cc0ce-1e00-4755-a82d-36cc538f0b3d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,93 +25,55 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=C:\Users\h0106\.android\avd\Pixel_7_API_34.avd)]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=PhysicalDevice, isTemplate=false, identifier=serial=R3CY30EYZWA)]" />
   <component name="ExternalProjectsData">
-    <projectState path="$PROJECT_DIR$/CapstonSportyUP">
+    <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
-  </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <projects_view>
-          <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Capston-SpotyUP" type="f1a62948:ProjectNode" />
-              </path>
-            </expand>
-            <select />
-          </tree_state>
-        </projects_view>
-      </state>
-    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
-        <option value="Class" />
-        <option value="resourceFile" />
+        <option value="Kotlin Data Class" />
         <option value="Kotlin Class" />
-        <option value="layoutResourceFile" />
       </list>
     </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="hjh" />
-      </map>
-    </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 4
+  &quot;associatedIndex&quot;: 7
 }</component>
-  <component name="ProjectId" id="2sqU5KczQhDpUbJbVKOZu5biRUZ" />
+  <component name="ProjectId" id="2vhoC8PvNZteB96wW1lMN5oF3cB" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Android App.app.executor&quot;: &quot;Run&quot;,
-    &quot;Flutter.main.dart.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Git/Front/android&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;flutter.settings&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Android App.app.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/25-1/AndTest/app/src/main/assets",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.language.Kotlin"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Git\Front\android\app\build" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Git\Front\CapstonSportyUP\app\src\main\res\drawable" />
+      <recent name="D:\25-1\AndTest\app\src\main\assets" />
+      <recent name="D:\25-1\AndTest\app\src\androidTest\assets" />
     </key>
   </component>
-  <component name="RunManager" selected="Android App.app">
+  <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
-      <module name="Capston-SpotyUP.app" />
+      <module name="TfliteTestApp.app" />
       <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -267,37 +144,29 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
-      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Android App.app" />
-      <item itemvalue="Flutter.main.dart" />
-    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="595c0fe3-f9ac-4f09-9e72-5a133aae5a83" name="Changes" comment="" />
-      <created>1739182416733</created>
+      <changelist id="e33cc0ce-1e00-4755-a82d-36cc538f0b3d" name="Changes" comment="" />
+      <created>1744606536711</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1739182416733</updated>
+      <updated>1744606536711</updated>
     </task>
     <servers />
   </component>
   <component name="play_dynamic_filters_status">
     <option name="appIdToCheckInfo">
       <map>
-        <entry key="com.example.capston_spotyup">
+        <entry key="com.example.tflitetestapp">
           <value>
-            <CheckInfo lastCheckTimestamp="1741569592831" />
+            <CheckInfo lastCheckTimestamp="1744606598460" />
           </value>
         </entry>
-        <entry key="com.example.capston_spotyup.test">
+        <entry key="com.example.tflitetestapp.test">
           <value>
-            <CheckInfo lastCheckTimestamp="1741569592829" />
+            <CheckInfo lastCheckTimestamp="1744606598461" />
           </value>
         </entry>
       </map>
